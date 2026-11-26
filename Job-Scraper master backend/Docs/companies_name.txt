@@ -1,0 +1,312 @@
+[
+  {
+    "company": "gitlab",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "stripe",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "airbnb",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "dropbox",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "databricks",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "robinhood",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "instacart",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "reddit",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "figma",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "asana",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "discord",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "gusto",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "samsara",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "cloudflare",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "lyft",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "pinterest",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "datadog",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "mongodb",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "elastic",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "sofi",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "affirm",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "chime",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "amplitude",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "airtable",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "scaleai",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "anthropic",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "spotify",
+    "ats": "lever"
+  },
+  {
+    "company": "gopuff",
+    "ats": "lever"
+  },
+  {
+    "company": "ro",
+    "ats": "lever"
+  },
+  {
+    "company": "swordhealth",
+    "ats": "lever"
+  },
+  {
+    "company": "paytm",
+    "ats": "lever"
+  },
+  {
+    "company": "palantir",
+    "ats": "lever"
+  },
+  {
+    "company": "sprinto",
+    "ats": "lever"
+  },
+  {
+    "company": "freshworks",
+    "ats": "lever"
+  },
+  {"company": "stripe", "ats": "greenhouse"},
+  {"company": "cloudflare", "ats": "greenhouse"},
+  {"company": "mongodb", "ats": "greenhouse"},
+  {"company": "gitlab", "ats": "greenhouse"},
+  {"company": "datadog", "ats": "greenhouse"},
+  {"company": "okta", "ats": "greenhouse"},
+  {"company": "zscaler", "ats": "greenhouse"},
+  {"company": "razorpay", "ats": "greenhouse"},
+  {"company": "cred", "ats": "lever"},
+  {"company": "meesho", "ats": "lever"},
+  {"company": "paytm", "ats": "lever"},
+  {"company": "hevodata", "ats": "lever"},
+  {
+    "company": "spacex",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "andurilindustries",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "coinbase",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "doordashusa",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "twitch",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "peloton",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "betterment",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "flexport",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "calendly",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "faire",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "brex",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "carta",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "checkr",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "roblox",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "grafana",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "okta",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "twilio",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "duolingo",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "webflow",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "careem",
+    "ats": "greenhouse"
+  },
+  {
+    "company": "veeva",
+    "ats": "lever"
+  },
+  {
+    "company": "lyrahealth",
+    "ats": "lever"
+  },
+  {
+    "company": "ivcevidensia",
+    "ats": "lever"
+  },
+  {
+    "company": "cscgeneration-2",
+    "ats": "lever"
+  },
+  {
+    "company": "zoox",
+    "ats": "lever"
+  },
+  {
+    "company": "lalamove",
+    "ats": "lever"
+  },
+  {
+    "company": "ninjavan",
+    "ats": "lever"
+  },
+  {
+    "company": "pigment",
+    "ats": "lever"
+  },
+  {
+    "company": "filevine",
+    "ats": "lever"
+  },
+  {
+    "company": "cryptocom",
+    "ats": "lever"
+  },
+  {
+    "company": "jobandtalent",
+    "ats": "lever"
+  },
+  {
+    "company": "malt",
+    "ats": "lever"
+  },
+  {
+    "company": "kabam",
+    "ats": "lever"
+  },
+  {
+    "company": "zopa",
+    "ats": "lever"
+  },
+  {
+    "company": "contentsquare",
+    "ats": "lever"
+  },
+  {
+    "company": "agicap",
+    "ats": "lever"
+  },
+  {
+    "company": "rover",
+    "ats": "lever"
+  },
+  {
+    "company": "anchoragedigital",
+    "ats": "lever"
+  },
+  {
+    "company": "kwalee",
+    "ats": "lever"
+  },
+  {
+    "company": "cesiumastro",
+    "ats": "lever"
+  }
+]
+
+
